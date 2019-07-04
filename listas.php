@@ -1,8 +1,3 @@
 <?php
 
-$idade1 = 21;
-$idade2 = 23;
-$idade3 = 19;
-$idade4 = 21;
-$idade5 = 30;
-$idade6 = 25;
+$idadeList =  array(21, 23, 19, 25, 30, 41, 18);
